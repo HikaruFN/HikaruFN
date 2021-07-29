@@ -14,4 +14,3 @@
 - MYSQL
 
 ### I have a huge passion for Videogames, TV series and I love making new friends! Come nerding with me sometimes! 🤓
-<p align="center"><img src="img/tenor.gif" width="200" height="150" style="text-align:center"></p>

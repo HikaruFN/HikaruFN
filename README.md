@@ -3,7 +3,8 @@
 - 🤝 I love collaborating with other Devs.
 - ⭐ Feel free to visit my repositories!
 - ⚡ Fun fact: The stronger my headache is, the stronger I become!
-<p align="center"><img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center"></p>
+<img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center">
+**These are the technologies I have studied and practiced**
 
 
 <!--

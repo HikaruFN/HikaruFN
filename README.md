@@ -1,4 +1,5 @@
 ### Hello! My name is Francesco and I am a Junior Full-Stack Web Developer 🖥️
+- 🌱 currently studing React.
 - 🔥 Never stop learning!
 - 🤝 I love collaborating with other Devs.
 - ⭐ Feel free to visit my repositories!
@@ -13,4 +14,3 @@
 - MYSQL
 
 ### I have a huge passion for Videogames, TV series and I love building new friendships, Come Nerding with me sometimes! 🤓
-<img src="img/giphy.gif" width="200" height="150" style="text-align:center">

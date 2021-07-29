@@ -5,10 +5,9 @@
 - ⚡ Fun fact: The stronger my headache is, the stronger I become!
 <img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center">
 
-### These are the technologies I studied and practiced.
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
-- <img src="img/html.png" width="50" height="50" style="text-align:center">
+### These are the technologies I studied and practiced:
+<img src="img/html.png" width="50" height="50" style="text-align:center">
+<img src="img/html.png" width="50" height="50" style="text-align:center">
+<img src="img/html.png" width="50" height="50" style="text-align:center">
+<img src="img/html.png" width="50" height="50" style="text-align:center">
+<img src="img/html.png" width="50" height="50" style="text-align:center"><img src="img/html.png" width="50" height="50" style="text-align:center">

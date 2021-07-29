@@ -3,7 +3,7 @@
 - 🤝 I love collaborating with other Devs.
 - ⚡ Fun fact: The stronger my headache is, the stronger I become!
 - ⭐ Feel free to visit my repositories!
-<img href="https://flyclipart.com/animal-character-inkcontober-psyduck-screech-yellow-icon-psyduck-png-198618">
+<img src="img/psyduckgithub.png">
 
 <!--
 **HikaruFN/HikaruFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

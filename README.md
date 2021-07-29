@@ -3,7 +3,8 @@
 - 🤝 I love collaborating with other Devs.
 - ⭐ Feel free to visit my repositories!
 - ⚡ Fun fact: The stronger my headache is, the stronger I become!
-<img src="img/psyduckgithub.gif" width="200" height="150">
+<div style="margin: 50px 10px;"><img src="img/psyduckgithub.gif" width="200" height="150"></div>
+
 
 <!--
 **HikaruFN/HikaruFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

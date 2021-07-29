@@ -13,4 +13,4 @@
 - PHP, LARAVEL
 - MYSQL
 
-### I have a huge passion for Videogames, TV series and I love building new friendships, Come Nerding with me sometimes! 🤓
+### I have a huge passion for Videogames, TV series and I love making new friends, Come Nerding with me sometimes! 🤓

@@ -6,8 +6,8 @@
 <img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center">
 
 ### These are the technologies I studied and practiced:
-<img src="img/html.png" width="50" height="50" style="text-align:center">
-<img src="img/html.png" width="50" height="50" style="text-align:center">
-<img src="img/html.png" width="50" height="50" style="text-align:center">
-<img src="img/html.png" width="50" height="50" style="text-align:center">
-<img src="img/html.png" width="50" height="50" style="text-align:center"><img src="img/html.png" width="50" height="50" style="text-align:center">
+- HTML
+- CSS, SASS, BOOTSTRAPP
+- JAVASCRIPT, VUE JS, NODE JS
+- PHP, LARAVEL
+- MYSQL

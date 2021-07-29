@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!👋 My name is Francesco and I am a Junior Full-Stack Web Developer
 
 <!--
 **HikaruFN/HikaruFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

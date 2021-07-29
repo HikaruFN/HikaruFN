@@ -5,9 +5,12 @@
 - ⚡ Fun fact: The stronger my headache is, the stronger I become!
 <img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center">
 
-### These are the technologies I studied and practiced:
+### These are the technologies I studied and practiced: ⚔️
 - HTML
 - CSS, SASS, BOOTSTRAPP
 - JAVASCRIPT, VUE JS, NODE JS
 - PHP, LARAVEL
 - MYSQL
+
+### I have a huge passion for Videogames, TV series and I love building new friendships, Come Nerding with me sometimes! 🤓
+<img src="img/giphy.gif" width="200" height="150" style="text-align:center">

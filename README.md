@@ -1,5 +1,5 @@
+- 🌱 currently studing Unity and C#.
 ### Hello! My name is Francesco and I am a Junior Full-Stack Web Developer 🖥️
-- 🌱 currently studing React.
 - 🔥 Never stop learning!
 - 🤝 I love collaborating with other Devs.
 - ⭐ Feel free to visit my repositories!

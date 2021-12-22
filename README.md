@@ -15,4 +15,4 @@
 - WEBFLOW
 - JAVASCRIPT, VUE JS, NODE JS, REACT, THREE JS
 
-### I have a huge passion for Videogames, TV series and I love making new friends! Come nerding with me sometimes! 🤓
+### I have a huge passion for Videogames, Esports, TV series and I love making new friends! Come nerding with me sometimes! 🤓

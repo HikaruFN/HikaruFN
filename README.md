@@ -1,4 +1,4 @@
-- 🌱 currently studing React.
+- 🌱 Always growing as a Unity game programmer!
 ### Hello! My name is Francesco and I am a Junior Full-Stack Web Developer 🖥️
 - 🔥 Never stop learning!
 - 🤝 I love collaborating with other Devs.
@@ -7,6 +7,8 @@
 <img src="img/psyduckgithub.gif" width="200" height="150" style="text-align:center">
 
 ### These are the technologies I studied and practiced: ⚔️
+- UNITY
+- C#
 - HTML
 - CSS, SASS, BOOTSTRAPP
 - JAVASCRIPT, VUE JS, NODE JS

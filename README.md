@@ -9,10 +9,10 @@
 ### These are the technologies I studied and practiced: ⚔️
 - UNITY
 - C#
+- CONSTRUCT 3
 - HTML
 - CSS, SASS, BOOTSTRAPP
-- JAVASCRIPT, VUE JS, NODE JS
-- PHP, LARAVEL
-- MYSQL
+- WEBFLOW
+- JAVASCRIPT, VUE JS, NODE JS, REACT, THREE JS
 
 ### I have a huge passion for Videogames, TV series and I love making new friends! Come nerding with me sometimes! 🤓

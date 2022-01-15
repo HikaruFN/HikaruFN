@@ -1,4 +1,4 @@
-- 🌱 Always growing as a Unity game programmer!
+- 🌱 Unity game programmer!
 ### Hello! My name is Francesco and I am a Junior Full-Stack Web Developer 🖥️
 - 🔥 Never stop learning!
 - 🤝 I love collaborating with other Devs.
@@ -9,7 +9,8 @@
 ### These are the technologies I studied and practiced: ⚔️
 - UNITY
 - C#
-- CONSTRUCT 3
+- BLENDER
+- PHOTOSHOP, ILLUSTRATOR
 - HTML
 - CSS, SASS, BOOTSTRAPP
 - WEBFLOW

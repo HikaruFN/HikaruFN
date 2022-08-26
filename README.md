@@ -1,4 +1,5 @@
-- 🌱 Unity game programmer!
+- 🌱 Studying Cyber Security
+
 ### Hello! My name is Francesco and I am a Junior Full-Stack Web Developer 🖥️
 - 🔥 Never stop learning!
 - 🤝 I love collaborating with other Devs.
